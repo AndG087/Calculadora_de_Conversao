@@ -17,8 +17,3 @@ Este projeto implementa uma calculadora didática para programadores, desenvolvi
 3. **Conversão de Número Real Decimal para Representação Float e Double:**
    - Mostra os bits de **Sinal**, **Expoente**, **Expoente com Viés**, e **Fração**.
 
-## Como Executar
-
-1. Clone o repositório do GitHub:
-   ```bash
-   git clone <link_do_repositorio>
