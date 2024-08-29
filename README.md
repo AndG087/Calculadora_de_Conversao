@@ -1,12 +1,24 @@
-# Calculadora_de_Conversao
+# Calculadora de Conversão Didática
 
-Construa uma calculadora programador didática (didática significa que deve ser mostrado os passos na tela das operações efetuadas),  implementada na linguagem C, que tenha as seguintes conversões
-1 - de base 10 para:
-a)base 2,
-b) base 8,
-c) base16, 
-d) código BCD
+## Descrição
 
-2 - de base 10  para base com sinal com 16 bits, (complemento a 2)
-3 - converter real em decimal para float e double, mostrando os respectivos bits de sinal , expoente, expoente com viés e fração 
-OBS: deve ser entregue o executável "zipado" com o codigo C com as iniciais do email e link do git com código.  A cada questão implementada deve ser feito um commit no git . O codigo fonte deve conter um cabeçalho dos dados do autor e  revisões/ atualizações com datas e hora
+Este projeto implementa uma calculadora didática para programadores, desenvolvida em linguagem C. A calculadora realiza diversas conversões entre diferentes bases numéricas e tipos de dados, com a exibição detalhada dos passos realizados em cada operação. O objetivo é auxiliar no aprendizado e entendimento das conversões entre bases numéricas e representações de valores em diferentes formatos de dados.
+
+## Funcionalidades
+
+1. **Conversões de Base 10:**
+   - **Base 2 (Binário)**
+   - **Base 8 (Octal)**
+   - **Base 16 (Hexadecimal)**
+   - **Código BCD (Binary-Coded Decimal)**
+
+2. **Conversão de Base 10 para Base com Sinal (Complemento a 2) de 16 bits.**
+
+3. **Conversão de Número Real Decimal para Representação Float e Double:**
+   - Mostra os bits de **Sinal**, **Expoente**, **Expoente com Viés**, e **Fração**.
+
+## Como Executar
+
+1. Clone o repositório do GitHub:
+   ```bash
+   git clone <link_do_repositorio>
